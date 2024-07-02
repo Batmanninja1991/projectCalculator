@@ -1,9 +1,13 @@
-# React + Vite
+Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Project Quote Calculator is a React component that allows users to estimate the cost of a website project based on various criteria. The component includes a series of sliders and checkboxes for different options, and it calculates and displays the total project cost as well as the estimated yearly cost.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# projectCalculator
+Number of Pages: Select the number of pages for the website.
+Style of Design: Choose between simple, moderate, and advanced design styles.
+Responsive Design: Option to include responsive design.
+Database Integration: Option to include database integration.
+E-commerce Functionality: Option to include e-commerce functionality.
+Instant Quote: Provides an instant quote based on the selected options.
+Yearly Cost Estimate: Provides an estimated yearly cost.
